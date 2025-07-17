@@ -163,7 +163,7 @@ Deploy the frontend separately to **Vercel**:
 
 ## 📸 **Preview**
 
-![[Chatty Preview](https://chap-app-pqfg.onrender.com)](link-to-your-screenshot-or-demo.gif)
+https://chap-app-pqfg.onrender.com
 
 ---
 
